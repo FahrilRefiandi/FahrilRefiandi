@@ -3,6 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahrilrefiandi" alt="fahrilrefiandi" /></a> </p>
 
+- 🔭 I’m currently working on Metafis **OLIVE**
+
+- 👯 I’m looking to collaborate on Blitaris **B-Post**
+
+- 👯 I’m looking to collaborate on Axata **Attendance Web App**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/farilannd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farilannd" height="30" width="40" /></a>
