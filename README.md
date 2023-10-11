@@ -82,7 +82,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FahrilRefiandi/FahrilRefiandi/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
