@@ -80,10 +80,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="40" alt="yii logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/FahrilRefiandi/FahrilRefiandi/output/snake.svg" alt="Snake animation" />
-
 
 ###
 
